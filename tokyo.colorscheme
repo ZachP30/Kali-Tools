@@ -1,0 +1,94 @@
+[Background]
+Color=18,18,28          ; very dark blue-black
+
+[BackgroundFaint]
+Color=28,20,38
+
+[BackgroundIntense]
+Color=15,15,25
+
+[Color0]
+Color=30,30,40
+
+[Color0Faint]
+Color=45,45,60
+
+[Color0Intense]
+Color=255,85,255        ; neon magenta
+
+[Color1]
+Color=255,45,85         ; hot pink / neon red
+
+[Color1Faint]
+Color=150,40,70
+
+[Color1Intense]
+Color=255,105,140
+
+[Color2]
+Color=45,255,255        ; neon cyan
+
+[Color2Faint]
+Color=30,160,160
+
+[Color2Intense]
+Color=80,255,255
+
+[Color3]
+Color=255,200,60        ; warm neon yellow-orange
+
+[Color3Faint]
+Color=200,150,30
+
+[Color3Intense]
+Color=255,230,100
+
+[Color4]
+Color=135,90,255        ; bright electric purple
+
+[Color4Faint]
+Color=90,60,160
+
+[Color4Intense]
+Color=180,140,255
+
+[Color5]
+Color=255,80,175        ; neon pink
+
+[Color5Faint]
+Color=130,50,110
+
+[Color5Intense]
+Color=255,130,210
+
+[Color6]
+Color=80,255,200        ; teal neon
+
+[Color6Faint]
+Color=50,150,130
+
+[Color6Intense]
+Color=120,255,220
+
+[Color7]
+Color=220,220,255       ; soft cool light gray-blue
+
+[Color7Faint]
+Color=120,120,150
+
+[Color7Intense]
+Color=255,255,255
+
+[Foreground]
+Color=220,220,255
+
+[ForegroundFaint]
+Color=180,180,210
+
+[ForegroundIntense]
+Color=255,255,255
+
+[General]
+Description=RetroTokyoNights
+Opacity=0.95
+Wallpaper=
